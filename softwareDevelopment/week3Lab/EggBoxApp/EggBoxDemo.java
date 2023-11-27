@@ -29,4 +29,5 @@ public class EggBoxDemo {
 		JOptionPane.showMessageDialog(null, "Number of boxes needed " + numBoxes);
 		JOptionPane.showMessageDialog(null, "Number of eggs left over " + leftOverEggs);
 	}
+
 }

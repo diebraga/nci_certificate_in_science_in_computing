@@ -1,4 +1,4 @@
-package nci_certificate_in_science_in_computing.softwareDevelopment.week4Lab.CodeRunner;
+package softwareDevelopment.week4Lab.CodeRunner;
 
 import java.util.Scanner;
 

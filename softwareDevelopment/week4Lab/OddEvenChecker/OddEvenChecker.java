@@ -1,4 +1,4 @@
-package nci_certificate_in_science_in_computing.softwareDevelopment.week4Lab.OddEvenChecker;
+package softwareDevelopment.week4Lab.OddEvenChecker;
 
 import java.util.Scanner;
 
